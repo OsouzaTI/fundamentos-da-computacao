@@ -1,4 +1,4 @@
-
+package codigo_fonte;
 public class AFDTeste {
     
     public static void main(String[] args) {

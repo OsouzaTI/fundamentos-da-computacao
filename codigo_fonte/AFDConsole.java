@@ -1,3 +1,4 @@
+package codigo_fonte;
 import java.util.Scanner;
 
 public class AFDConsole {

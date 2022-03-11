@@ -1,3 +1,4 @@
+package codigo_fonte;
 public class Transicao {
     Character token; // token que sera consumido
     Estado destino; // estado de destino
